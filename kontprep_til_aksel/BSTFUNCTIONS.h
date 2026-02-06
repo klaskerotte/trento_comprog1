@@ -1,6 +1,12 @@
 #ifndef BSTFUNCTIONS
 #define BSTFUNCTIONS
 
+// Dette er en headerfil
+// Tenk på dette som en enkel hånd for funksjonene. De sier
+//      hvilken type funksjonen returnerer
+//      hva funksjonen heter
+//
+
 struct node {
   int data;
   node *left;
