@@ -2,6 +2,15 @@
 #include <cstdlib>
 #include <iostream>
 
+// Dette er en sourcefil
+// Funksjonssignaturene som er skrevet opp i "BSTFUNCTIONS.h" er programmert
+// her. "BSTFUNCTIONS.h" er på en måte hvordan disse funksjonene fungerer kort
+// fortalt "BSTFUNCTIONS.cpp" er funksjonenes logikk.
+//
+// I mainfilen "BST2.cpp" er headerfilen "BSTFUNCTIONS.h" inkludert, men
+// "BSTFUNCTIONS.cpp" må kompileres sammen med mainfilen
+//
+
 int *createarray(int size) {
 
   // Sett av nok minne til å holde alle integersa dine. Se på dette som "size"
