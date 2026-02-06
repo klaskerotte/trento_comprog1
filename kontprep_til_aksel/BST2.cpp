@@ -2,6 +2,15 @@
 #include <cstdlib>
 #include <iostream>
 
+/*
+ *
+ *
+ * HUSK Å KOMPILERE BSTFUNCTIONS.cpp SAMMEN MED DENNE FILEN FOR AT DET SKAL
+ * FUNKE
+ *
+ *
+ */
+
 int main() {
   // Setter random seed, hvilket betyr at std::rand() funksjonen faktisk lager
   // forskjellige tall
